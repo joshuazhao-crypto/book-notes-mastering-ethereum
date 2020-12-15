@@ -1,3 +1,4 @@
-# Mastering Ethereum book notes
+# Book notes - Mastering Ethereum
 
-[Week 01](./week_01.md)
+## Table of content
+- [Week 01](./week_01.md)

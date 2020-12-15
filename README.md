@@ -1,6 +1,6 @@
 # ⛓ 📝 Book notes - Mastering Ethereum
 
-⚠️ make no mistake here, THIS IS NOT a repo about notes on Mastering Ethereum, THIS IS the mighty protector 🛡of that sweet 100rmb of mine 😉
+⚠️ ***make no mistake here, this is not a repo about notes on Mastering Ethereum, this is the mighty protector🛡of that sweet 100rmb of mine*** 😉
 
 ## Table of content
 - [X] [Week 01 - Chapter 01-02](./week_01.md)

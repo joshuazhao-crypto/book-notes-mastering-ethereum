@@ -1,4 +1,4 @@
-# Book notes - Mastering Ethereum
+# ⛓ 📝 Book notes - Mastering Ethereum
 
 ## Week 01/02 - Date: 15/12/2020
 

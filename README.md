@@ -7,7 +7,7 @@
 - [X] [Week 02 - Chapter 03](./week_02.md)
 - [X] [Week 03 - Chapter 04](./week_03.md)
 - [X] [Week 04 - Chapter 05](./week_04.md)
-- [ ] [Week 05](./week_05.md)
+- [X] [Week 05 - Chapter 06](./week_05.md)
 - [ ] [Week 06](./week_06.md)
 - [ ] [Week 07](./week_07.md)
 - [ ] [Week 08](./week_08.md)
